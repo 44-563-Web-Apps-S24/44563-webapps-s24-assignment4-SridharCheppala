@@ -20,6 +20,15 @@
 .EPIKHODOV{
     color: mediumslateblue;
 }
+.DUNYASHA:hover{
+    text-shadow: 2px 2px 5px black;
+}
+.EPIKHODOV:hover{
+    text-shadow: 3px 3px 6px blue;
+}
+.LOPAKHIN:hover{
+    text-shadow: 2px 2px 4px orange;
+}
 table,th,td{
     color: turquoise;
     border: 1px solid black;
