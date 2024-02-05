@@ -17,3 +17,16 @@
 .DUNYASHA{
     color: blue;
 }
+table,th,td{
+    color: turquoise;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 2px;
+    padding-bottom: 3px;
+    margin-top: 2px;
+}
+tr:nth-child(odd) {
+    background-color: #8F9AA5;
+}
+th{text-align: center;}
+td{text-align: left;}
